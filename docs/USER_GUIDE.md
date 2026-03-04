@@ -35,7 +35,7 @@ for val in iter_read_doubles("samples/sample_1000.bin", chunk_size=100):
 
 ```bash
 # Clone and install
-git clone https://github.com/your-username/external-merge-sort-visualizer.git
+git clone https://github.com/longzu-ComputerScience/external-merge-sort-visualizer
 cd external-merge-sort-visualizer
 python -m venv venv
 venv\Scripts\activate
